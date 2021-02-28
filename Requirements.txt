@@ -1,0 +1,7 @@
+poco
+pocoui
+airtest
+pytest
+pytest-html
+pytest-repeat
+pytest-repeat
